@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/자바-#FF160B?style=flat&logo=newjapanprowrestling&logoColor=white"/>
+<img src="https://img.shields.io/badge/자-#F7DF1E?style=flat&logo=javascript&logoColor=white"/>
