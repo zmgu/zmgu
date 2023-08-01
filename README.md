@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://boundless-leech-800.notion.site/560aa606d4d84e108faf4e73d44f9ea9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+<!--<a href="https://boundless-leech-800.notion.site/560aa606d4d84e108faf4e73d44f9ea9"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a> 
 
