@@ -1,6 +1,6 @@
-### 👋 안녕하세요, 신입 개발자 전민혁입니다
+<!--### 👋 안녕하세요, 신입 개발자 전민혁입니다
 
-<!--
+
 **zmgu/zmgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
