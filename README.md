@@ -1,4 +1,4 @@
- 꼼꼼하고 꾸준하게 🌱
+ 꼼꼼하고 꾸준하게 🌱🌱🌱
 
 <!--
 **zmgu/zmgu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
